@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Jahyun_Hwang&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=Minsoo_Park&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-<h3 align="center">Hi! I'm Jahyun </h3>
+<h3 align="center">Hi! I'm Minsoo </h3>
 <p align="center">
-  <a href="jh940412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:jh940412@gmail.com)"/></a>&nbsp
-<a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+  <a href="mscode96@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mscode96@gmail.com)](mailto:mscode96@gmail.com)"/></a>&nbsp
+<a href="https://www.notion.so/c5d6a4177a8f4e4d8611767dd6e2717f"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 <h4 align="center"> </h4>
 <br>
 
